@@ -13,14 +13,14 @@ python-dotenv
 # Installation
 To run this script, you need to install necessary Python libraries. You can install these using pip:
 
-pip install google-api-python-client python-dotenv
+`pip install google-api-python-client python-dotenv`
 
 # Running the Script
 Open your terminal or command prompt.
 Navigate to the directory where the script is located.
 Run the script:
 
-python main.py  # Replace 'main.py' with the name of your script if different
+`python main.py`  # Replace 'main.py' with the name of your script if different
 
 # Output
 The script will create a CSV file named youtube_edu_videos.csv in the same directory, containing the fetched video data.
