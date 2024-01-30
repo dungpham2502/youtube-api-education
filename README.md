@@ -15,6 +15,22 @@ To run this script, you need to install necessary Python libraries. You can inst
 
 `pip install google-api-python-client python-dotenv`
 
+ # Setting Up Your Environment
+1. YouTube API Key: You need a YouTube API key to fetch data from YouTube. Follow these steps to obtain it:
+
+* Go to Google Cloud Console.
+* Create a new project or select an existing one.
+* Enable the YouTube Data API for your project.
+* Create credentials (API key) for the project.
+
+2. Environment Variables: Store your API key in a .env file at the root of your project:
+* Create a file named .env.
+* Add your YouTube API key to it like this:
+
+`API_KEY=your_youtube_api_key
+`
+
+
 # Running the Script
 Open your terminal or command prompt.
 Navigate to the directory where the script is located.
