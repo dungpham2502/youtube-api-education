@@ -36,7 +36,7 @@ Open your terminal or command prompt.
 Navigate to the directory where the script is located.
 Run the script:
 
-`python main.py`  # Replace 'main.py' with the name of your script if different
+`python sample.py`
 
 # Output
 The script will create a CSV file named youtube_edu_videos.csv in the same directory, containing the fetched video data.
